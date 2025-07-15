@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E-Booking</title>
+</head>
+
+<body>
+
+    <!-- Header section -->
+    <h1>Welcome Everyone</h1>
+    <h2><a href="https://www.flipkart.com/">India Bazzar</a></h2>
+    <hr />
+    <h2>About us:</h2>
+    <p>
+        <b>India Bazzar</b> is a dynamic e-commerce platform that focuses on providing a wide range of products across
+        categories to meet the daily needs of customers. India Bazzar offers various features and services designed to
+        make online shopping easy, fast, and affordable. With a user-friendly interface, secure payment options, and
+        quick delivery, India Bazzar ensures a smooth and satisfying shopping experience, helping customers save both
+        time and money.
+    </p>
+<hr /><hr>
+<!-- Header section end -->
+
+<!-- image section -->
+ <P>Images:</P>
+ <tr>
+    <td><img src="images/1.jpeg" alt="vegitables"></td>
+    <td><img src="images/2.jpeg" alt="Gajets"></td>
+    <td><img src="images/3.jpeg" alt="Cloths"></td>
+    <td><img src="images/4.jpeg" alt="Grocery"></td>
+ </tr>
+ <hr><hr>
+ <!-- images section end -->
+ 
+<!-- our service -->
+<h2>Our service:</h2>
+<ui>
+    <li>Fresh Vegitables</li>
+    <li>Electonice Gajets</li>
+    <li>Branded Cloths</li>
+    <li>Grocery</li>
+</ui>
+<hr><hr>
+
+<!-- our service end -->
+
+<!-- video section -->
+ <h2>Video;</h2>
+ <section>
+<iframe width="656" height="400" src="https://www.youtube.com/embed/skUfXudFDzA" title="E-Commerce video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+ </section>
+ <hr><hr>
+
+<!-- price section -->
+<h2><u>Price list:</u></h2>
+ <table border>
+    <thead>
+        <th>Services</th>
+        <th>Price</th>
+    </thead>
+    
+    <tbody>
+        <tr>
+            <td>Tomato</td>
+            <td>25rs per kg</td>
+        </tr>
+        <tr>
+            <td>Realme airbuds</td>
+            <td>2100 rs</td>
+        </tr>
+        <tr>
+            <td>Addidas Jacket</td>
+            <td>2999 rs</td>
+        </tr>
+        <tr>
+            <td>Tuthpest</td>
+            <td>108 rs</td>
+        </tr>
+    </tbody>
+ </table>
+ <hr>
+ <hr>
+
+ <!-- Price section end -->
+
+ <!-- Sing in  -->
+<h2>Sing-In:</h2>
+<form action="">
+  <p><label for=""><b>Username:</b></label></p>
+  <input type="text" minlength="5" maxlength="25" required placeholder="Enter Name "/>
+
+  <p><label for=""><b>Phone NO:</b></label></p>
+  <input type="number"  minlength="10" maxlength="10" required placeholder="Enter Phone number"/>
+  
+  <p><label for=""><b>Email:</b></label></p>
+  <input type="email" id="num" minlength="15" maxlength="30" required placeholder="Enter Email">
+  <br><br>
+<input type="submit">
+<hr>
+<hr>
+<!-- Sing in ends here -->
+
+<!-- contact Us -->
+<h2>Contact Us:-</h2>
+<p>
+    Email: indiabazzar@gmail.com
+    <br>
+    Facebook Instagram
+    <br>
+    Copyright © 2002-2025 LY.com All right reserved. ICP Certificate: He Zi B2-20180016 Record Number: Su ICP Record 09033604 No.-52
+</p>
+<hr>
+<hr>
+<!-- contact us ends here -->
+</form>
+</body>
+</html>
